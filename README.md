@@ -1,0 +1,2 @@
+"# typescript-assign-1" 
+
